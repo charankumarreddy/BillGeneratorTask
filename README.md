@@ -1,6 +1,8 @@
 # Bill Generator Task
 
-### System RequirementsVS 2019.Net core 3.0  
+### System Requirements
+### VS 2019.Net 
+### core 3.0  
 
 ### Please follow the below steps to run the application 
 
