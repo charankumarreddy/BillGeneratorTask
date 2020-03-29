@@ -4,17 +4,17 @@
 
 ### Please follow the below steps to run the application 
 
-git clone https://github.com/charankumarreddy/BillGeneratorTask.git
-cd BillGeneratorTask
-dotnet restore 
-dotnet run 
+git clone https://github.com/charankumarreddy/BillGeneratorTask.git <br />
+cd BillGeneratorTask <br />
+dotnet restore <br />
+dotnet run  <br />
 
 #### I have implemented below pages 
-CRUD for Items 
-CRUD for Item Categories(like Medicine and Groceries) 
-Bill Generator page to add the items and implement below points as mentioned 
+CRUD for Items <br />
+CRUD for Item Categories(like Medicine and Groceries) <br />
+Bill Generator page to add the items and implement below points as mentioned <br />
 
-1. Create a .Net based solution to generate billing of the items.
+1. Create a .Net based solution to generate billing of the items. 
 
 2. The solution should take item and quantity as input
 
