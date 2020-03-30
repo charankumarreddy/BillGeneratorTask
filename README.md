@@ -11,6 +11,8 @@ cd BillGeneratorTask <br />
 dotnet restore <br />
 dotnet run  <br />
 
+#### If requried change the sql connection string from appsettings.json file 
+
 #### I have implemented below pages 
 CRUD for Items <br />
 CRUD for Item Categories(like Medicine and Groceries) <br />
