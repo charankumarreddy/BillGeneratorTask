@@ -9,6 +9,7 @@
 git clone https://github.com/charankumarreddy/BillGeneratorTask.git <br />
 cd BillGeneratorTask <br />
 dotnet restore <br />
+cd BillGeneratorTask <br />
 dotnet run  <br />
 
 #### If requried change the sql connection string from appsettings.json file 
